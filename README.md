@@ -1,2 +1,2 @@
 # buy
-"Buy".  A protocol for commerce.  To be validated in promela/spin, then implemented in Ethereum, RChain, etc.
+"Buy".  A protocol for commerce.  Validated in promela/spin; to be implemented in Ethereum, RChain, etc.
